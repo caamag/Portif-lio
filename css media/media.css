@@ -1,0 +1,13 @@
+
+@media screen and (max-width: 500px) {
+    
+    .cabeçalho img
+    {display: block;}
+
+    .lista-pc
+    {display: none;}
+
+    .contatos
+    {opacity: 0;}
+
+}
